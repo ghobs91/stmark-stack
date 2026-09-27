@@ -1,0 +1,9 @@
+/*
+  Custom admin theme overrides for St. Mark Coptic Orthodox Center.
+  Add SCSS/CSS overrides here; they are loaded after Payload's own styles.
+*/
+
+:root {
+  --stmark-gold: #b58a3c;
+  --stmark-ink: #1e293b;
+}

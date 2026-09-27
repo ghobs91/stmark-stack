@@ -1,0 +1,31 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+@theme {
+  --color-brand: #1e293b;
+  --color-brand-dark: #0f172a;
+  --color-gold: #b58a3c;
+  --color-parchment: #f8fafc;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+}
+
+@keyframes stmark-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.45;
+  }
+}
+
+.animate-live {
+  animation: stmark-pulse 1.6s ease-in-out infinite;
+}

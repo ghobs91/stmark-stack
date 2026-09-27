@@ -1,0 +1,39 @@
+{
+  "name": "St. Mark Coptic Orthodox Center",
+  "short_name": "St. Mark",
+  "description": "Liturgical schedules, live streams, food ordering, and news for St. Mark Coptic Church.",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Schedule",
+      "url": "/schedule"
+    },
+    {
+      "name": "Kitchen Order",
+      "url": "/kitchen"
+    },
+    {
+      "name": "Give",
+      "url": "/give"
+    }
+  ]
+}

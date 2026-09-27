@@ -77,6 +77,15 @@ web_modules/
 # Next.js build output
 .next
 out
+next-env.d.ts
+
+# Serwist generated service worker
+public/sw.js
+public/sw.js.map
+public/swe-worker-*.js
+
+# Payload local media uploads (used when S3/R2 is not configured)
+/media
 
 # Nuxt.js build / generate output
 .nuxt
