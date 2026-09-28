@@ -2,6 +2,8 @@
 
 import { useEffect } from 'react'
 
+import { Container } from '@/components/ui/Container'
+
 export default function Error({
   error,
   reset,
@@ -14,18 +16,19 @@ export default function Error({
   }, [error])
 
   return (
-    <div className="mx-auto max-w-md py-16 text-center">
-      <h1 className="text-2xl font-bold text-slate-900">Something went wrong</h1>
-      <p className="mt-3 text-sm text-slate-600">
-        We hit an unexpected error loading this page. Please try again.
+    <Container className="py-20 text-center">
+      <p className="eyebrow">Something went wrong</p>
+      <h1 className="mt-2 text-3xl text-ink">We hit an unexpected error</h1>
+      <p className="mx-auto mt-3 max-w-md text-sm text-muted">
+        This page could not be loaded. Please try again.
       </p>
       <button
         type="button"
         onClick={reset}
-        className="mt-6 rounded-lg bg-brand px-4 py-2 text-sm font-medium text-white hover:bg-brand-dark"
+        className="mt-6 rounded-lg bg-brand px-4 py-2 text-sm font-medium text-white transition hover:bg-brand-dark"
       >
         Try again
       </button>
-    </div>
+    </Container>
   )
 }

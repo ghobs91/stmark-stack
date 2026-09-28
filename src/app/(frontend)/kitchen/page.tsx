@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 
 import { KitchenOrdering } from '@/components/KitchenOrdering'
+import { PageHeader } from '@/components/PageHeader'
+import { Container } from '@/components/ui/Container'
 import { getKitchenSettings } from '@/lib/content'
 
 export const dynamic = 'force-dynamic'
@@ -14,15 +16,15 @@ export default async function KitchenPage() {
   const settings = await getKitchenSettings()
 
   return (
-    <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold text-slate-900">Kitchen Orders</h1>
-        <p className="mt-1 text-sm text-slate-500">
-          Place your order online, or text the kitchen directly if the form gives you trouble.
-        </p>
-      </div>
-
-      <KitchenOrdering settings={settings} />
+    <div>
+      <PageHeader
+        eyebrow="Kitchen Service"
+        title="Kitchen Orders"
+        description="Place your order online, or text the kitchen directly if the form gives you trouble."
+      />
+      <Container className="py-10 sm:py-12">
+        <KitchenOrdering settings={settings} />
+      </Container>
     </div>
   )
 }

@@ -1,6 +1,8 @@
 import type { Metadata } from 'next'
 
 import { DonationModal } from '@/components/DonationModal'
+import { PageHeader } from '@/components/PageHeader'
+import { Container } from '@/components/ui/Container'
 import { DONATION_FUNDS } from '@/lib/donation-funds'
 
 export const metadata: Metadata = {
@@ -16,45 +18,52 @@ export default async function GivePage({ searchParams }: Args) {
   const { donation } = await searchParams
 
   return (
-    <div className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold text-slate-900">Give</h1>
-        <p className="mt-1 text-sm text-slate-500">
-          Your generosity supports our worship, building, and kitchen ministries.
-        </p>
-      </div>
+    <div>
+      <PageHeader
+        eyebrow="Stewardship"
+        title="Give"
+        description="Your generosity supports our worship, building, and kitchen ministries."
+      />
+      <Container className="py-10 sm:py-12">
+        {donation === 'success' ? (
+          <div className="mb-6 rounded-lg border border-emerald-200 bg-emerald-50 px-4 py-3 text-sm text-emerald-800 dark:border-emerald-500/25 dark:bg-emerald-500/10 dark:text-emerald-200">
+            Thank you for your gift. May God reward your generosity.
+          </div>
+        ) : null}
+        {donation === 'cancelled' ? (
+          <div className="mb-6 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800 dark:border-amber-500/25 dark:bg-amber-500/10 dark:text-amber-200">
+            Your donation was cancelled. You can try again at any time.
+          </div>
+        ) : null}
 
-      {donation === 'success' ? (
-        <div className="rounded-2xl border border-emerald-200 bg-emerald-50 p-4 text-sm text-emerald-800">
-          Thank you for your gift. May God reward your generosity.
-        </div>
-      ) : null}
-      {donation === 'cancelled' ? (
-        <div className="rounded-2xl border border-amber-200 bg-amber-50 p-4 text-sm text-amber-800">
-          Your donation was cancelled. You can try again at any time.
-        </div>
-      ) : null}
+        <div className="grid gap-6 md:grid-cols-[1fr_1.1fr]">
+          <div className="rounded-xl border border-hair bg-surface p-6">
+            <p className="eyebrow">Allocation funds</p>
+            <ul className="mt-4 space-y-3 text-sm text-muted">
+              {DONATION_FUNDS.map((fund) => (
+                <li key={fund.value} className="flex items-center gap-3">
+                  <span className="h-1.5 w-1.5 rounded-full bg-gold" />
+                  {fund.label}
+                </li>
+              ))}
+            </ul>
+            <div className="mt-6 rule-gold w-16" />
+            <p className="mt-4 text-xs text-subtle">
+              Prefer to give by text? Text &ldquo;Build&rdquo; to (516) 246-5959.
+            </p>
+          </div>
 
-      <div className="grid gap-6 md:grid-cols-2">
-        <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-          <h2 className="text-lg font-semibold text-slate-800">Allocation funds</h2>
-          <ul className="mt-3 space-y-2 text-sm text-slate-600">
-            {DONATION_FUNDS.map((fund) => (
-              <li key={fund.value} className="flex items-center gap-2">
-                <span className="h-1.5 w-1.5 rounded-full bg-gold" />
-                {fund.label}
-              </li>
-            ))}
-          </ul>
+          <div className="rounded-xl border border-hair bg-surface p-6">
+            <p className="eyebrow">Secure giving</p>
+            <p className="mt-3 text-sm text-muted">
+              Give securely by card. One-time gifts and monthly giving are both available.
+            </p>
+            <div className="mt-5">
+              <DonationModal />
+            </div>
+          </div>
         </div>
-
-        <div className="flex flex-col items-start justify-center gap-4 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-          <p className="text-sm text-slate-600">
-            Give securely with a card. One-time gifts and monthly giving are both available.
-          </p>
-          <DonationModal />
-        </div>
-      </div>
+      </Container>
     </div>
   )
 }

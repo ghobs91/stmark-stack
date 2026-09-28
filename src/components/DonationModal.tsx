@@ -71,7 +71,7 @@ export function DonationModal() {
 
   if (!publishableKey) {
     return (
-      <div className="rounded-2xl border border-slate-200 bg-white p-6 text-sm text-slate-600 shadow-sm">
+      <div className="rounded-2xl border border-hair bg-surface p-6 text-sm text-muted shadow-sm">
         Online giving is being set up. Please contact the church office to make a gift at this time.
       </div>
     )
@@ -142,13 +142,13 @@ export function DonationModal() {
           role="dialog"
           aria-modal="true"
         >
-          <div className="max-h-[90vh] w-full max-w-md overflow-y-auto rounded-2xl bg-white p-6 shadow-xl">
+          <div className="max-h-[90vh] w-full max-w-md overflow-y-auto rounded-2xl bg-surface p-6 shadow-xl">
             <div className="flex items-center justify-between">
-              <h2 className="text-lg font-semibold text-slate-800">Give to St. Mark</h2>
+              <h2 className="text-lg font-semibold text-ink">Give to St. Mark</h2>
               <button
                 type="button"
                 onClick={close}
-                className="text-xl leading-none text-slate-400 hover:text-slate-600"
+                className="text-xl leading-none text-subtle hover:text-muted"
                 aria-label="Close"
               >
                 ×
@@ -175,7 +175,7 @@ export function DonationModal() {
                       className={`flex-1 rounded-lg border px-3 py-2 text-sm font-medium ${
                         frequency === value
                           ? 'border-brand bg-brand text-white'
-                          : 'border-slate-300 text-slate-600 hover:bg-slate-100'
+                          : 'border-hair text-muted hover:bg-brand/5'
                       }`}
                     >
                       {value === 'once' ? 'One-time' : 'Monthly'}
@@ -184,14 +184,14 @@ export function DonationModal() {
                 </div>
 
                 <label className="block text-sm">
-                  <span className="text-slate-600">Amount (USD)</span>
+                  <span className="text-muted">Amount (USD)</span>
                   <input
                     type="number"
                     min={MIN_DONATION_AMOUNT}
                     max={MAX_DONATION_AMOUNT}
                     value={amount}
                     onChange={(event) => setAmount(Number(event.target.value))}
-                    className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2"
+                    className="mt-1 w-full rounded-lg border border-hair px-3 py-2"
                   />
                 </label>
 
@@ -201,7 +201,7 @@ export function DonationModal() {
                       key={preset}
                       type="button"
                       onClick={() => setAmount(preset)}
-                      className="rounded-lg border border-slate-300 px-3 py-1 text-sm text-slate-600 hover:bg-slate-100"
+                      className="rounded-lg border border-hair px-3 py-1 text-sm text-muted hover:bg-brand/5"
                     >
                       ${preset}
                     </button>
@@ -209,11 +209,11 @@ export function DonationModal() {
                 </div>
 
                 <label className="block text-sm">
-                  <span className="text-slate-600">Allocation</span>
+                  <span className="text-muted">Allocation</span>
                   <select
                     value={fund}
                     onChange={(event) => setFund(event.target.value as DonationFund)}
-                    className="mt-1 w-full rounded-lg border border-slate-300 px-3 py-2"
+                    className="mt-1 w-full rounded-lg border border-hair px-3 py-2"
                   >
                     {DONATION_FUNDS.map((option) => (
                       <option key={option.value} value={option.value}>

@@ -38,20 +38,17 @@ export function PushNotificationToggle({ enabled = true }: { enabled?: boolean }
         setError('Notifications were not permitted.')
         return
       }
-
       const keyRes = await fetch('/api/push/vapid-public-key')
       const { publicKey } = (await keyRes.json()) as { publicKey?: string }
       if (!publicKey) {
         setError('Push notifications are not configured yet.')
         return
       }
-
       const registration = await navigator.serviceWorker.ready
       const subscription = await registration.pushManager.subscribe({
         userVisibleOnly: true,
         applicationServerKey: urlBase64ToUint8Array(publicKey),
       })
-
       await fetch('/api/push/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -88,28 +85,46 @@ export function PushNotificationToggle({ enabled = true }: { enabled?: boolean }
   }
 
   return (
-    <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
-      <div className="flex items-center justify-between gap-3">
+    <div className="flex flex-wrap items-center justify-between gap-3 rounded-lg border border-hair bg-surface px-4 py-3">
+      <div className="flex items-center gap-3">
+        <span className="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-brand/5 text-gold">
+          <svg viewBox="0 0 24 24" fill="none" className="h-4 w-4" aria-hidden="true">
+            <path
+              d="M6 9a6 6 0 1 1 12 0c0 4 1.5 5.5 1.5 5.5h-15S6 13 6 9Z"
+              stroke="currentColor"
+              strokeWidth="1.6"
+              strokeLinejoin="round"
+            />
+            <path
+              d="M10 18a2 2 0 0 0 4 0"
+              stroke="currentColor"
+              strokeWidth="1.6"
+              strokeLinecap="round"
+            />
+          </svg>
+        </span>
         <div>
-          <p className="text-sm font-medium text-slate-800">Push notifications</p>
-          <p className="text-xs text-slate-500">
-            Get urgent alerts like Holy Week schedule changes.
+          <p className="text-sm font-medium text-ink">Push notifications</p>
+          <p className="text-xs text-subtle">
+            Urgent alerts like Holy Week schedule changes.
           </p>
         </div>
+      </div>
+      <div className="flex items-center gap-3">
+        {error ? <span className="text-xs text-red-600">{error}</span> : null}
         <button
           type="button"
           onClick={subscribed ? unsubscribe : subscribe}
           disabled={busy}
-          className={`rounded-lg px-3 py-1.5 text-sm font-medium transition disabled:opacity-50 ${
+          className={`rounded-lg px-3.5 py-1.5 text-sm font-medium transition disabled:opacity-50 ${
             subscribed
-              ? 'border border-slate-300 text-slate-600 hover:bg-slate-100'
+              ? 'border border-hair text-muted hover:border-gold'
               : 'bg-brand text-white hover:bg-brand-dark'
           }`}
         >
           {busy ? 'Working…' : subscribed ? 'Disable' : 'Enable'}
         </button>
       </div>
-      {error ? <p className="mt-2 text-xs text-red-600">{error}</p> : null}
     </div>
   )
 }

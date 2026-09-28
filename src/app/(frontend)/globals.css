@@ -1,11 +1,68 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 
-@theme {
-  --color-brand: #1e293b;
-  --color-brand-dark: #0f172a;
-  --color-gold: #b58a3c;
-  --color-parchment: #f8fafc;
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  color-scheme: light;
+  --c-cream: #f5f2ea;
+  --c-surface: #ffffff;
+  --c-parchment: #fbf8f2;
+  --c-warm: #fdf6ea;
+  --c-hair: #e5dfd2;
+  --c-ink: #16233b;
+  --c-muted: #475569;
+  --c-subtle: #94a3b8;
+  --c-brand: #16233b;
+  --c-brand-dark: #0b1322;
+  --c-accent: #1d3557;
+  --c-charcoal: #0a0e16;
+  --c-gold: #b58a3c;
+  --c-gold-soft: #d8c191;
+  --glow-gold: rgba(181, 138, 60, 0.07);
+  --glow-brand: rgba(22, 35, 59, 0.05);
+}
+
+.dark {
+  color-scheme: dark;
+  --c-cream: #0e141f;
+  --c-surface: #161f2e;
+  --c-parchment: #121a27;
+  --c-warm: #1c1a14;
+  --c-hair: #29323f;
+  --c-ink: #e9eef6;
+  --c-muted: #a9b4c4;
+  --c-subtle: #7d8a9c;
+  --c-brand: #2b3f63;
+  --c-brand-dark: #0b1322;
+  --c-accent: #9db8e6;
+  --c-charcoal: #0a0e16;
+  --c-gold: #cfa561;
+  --c-gold-soft: #e7cf9f;
+  --glow-gold: rgba(207, 165, 97, 0.1);
+  --glow-brand: rgba(120, 155, 210, 0.07);
+}
+
+@theme inline {
+  --color-cream: var(--c-cream);
+  --color-surface: var(--c-surface);
+  --color-parchment: var(--c-parchment);
+  --color-warm: var(--c-warm);
+  --color-hair: var(--c-hair);
+  --color-ink: var(--c-ink);
+  --color-muted: var(--c-muted);
+  --color-subtle: var(--c-subtle);
+  --color-brand: var(--c-brand);
+  --color-brand-dark: var(--c-brand-dark);
+  --color-accent: var(--c-accent);
+  --color-charcoal: var(--c-charcoal);
+  --color-gold: var(--c-gold);
+  --color-gold-soft: var(--c-gold-soft);
+
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --font-serif:
+    'Iowan Old Style', 'Palatino Linotype', Palatino, 'Book Antiqua', Georgia, ui-serif, serif;
 }
 
 html {
@@ -13,7 +70,35 @@ html {
 }
 
 body {
-  text-rendering: optimizeLegibility;
+  background-color: var(--c-cream);
+  color: var(--c-ink);
+  background-image:
+    radial-gradient(circle at 12% -5%, var(--glow-gold), transparent 42%),
+    radial-gradient(circle at 92% 4%, var(--glow-brand), transparent 38%);
+  background-attachment: fixed;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-serif);
+  letter-spacing: -0.01em;
+}
+
+/* Small uppercase label used above section titles. */
+.eyebrow {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--c-gold);
+}
+
+/* Thin gold divider. */
+.rule-gold {
+  height: 1px;
+  background: linear-gradient(90deg, var(--c-gold), transparent);
 }
 
 @keyframes stmark-pulse {
@@ -22,7 +107,7 @@ body {
     opacity: 1;
   }
   50% {
-    opacity: 0.45;
+    opacity: 0.4;
   }
 }
 

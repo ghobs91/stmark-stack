@@ -41,19 +41,26 @@ export const metadata: Metadata = {
 }
 
 export const viewport: Viewport = {
-  themeColor: '#1e293b',
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#f5f2ea' },
+    { media: '(prefers-color-scheme: dark)', color: '#0e141f' },
+  ],
   width: 'device-width',
   initialScale: 1,
   viewportFit: 'cover',
 }
 
+// Applied before first paint so the correct theme is set with no flash.
+const themeScript = `(function(){try{var s=localStorage.getItem('theme');var d=s?s==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;var e=document.documentElement;e.classList.toggle('dark',d);e.style.colorScheme=d?'dark':'light';}catch(e){}})();`
+
 export default function FrontendLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className="min-h-dvh bg-slate-50 text-slate-900 antialiased">
+      <body className="flex min-h-dvh flex-col bg-cream text-ink antialiased">
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         <ServiceWorkerRegistrar />
         <Header />
-        <main className="mx-auto max-w-5xl px-4 py-6">{children}</main>
+        <main className="flex-1">{children}</main>
         <Footer />
         <PwaInstallPrompt />
       </body>

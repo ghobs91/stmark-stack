@@ -4,109 +4,119 @@ import { useState } from 'react'
 
 import { youtubeEmbedUrl, youtubeWatchUrl, type ArchivedVideo, type LiveStatus } from '@/lib/youtube'
 import { formatDate } from '@/lib/format'
+import { Section } from './ui/Section'
+import { SectionHeading } from './ui/SectionHeading'
 
 export function LiveStreamSection({
   live,
   videos,
+  id,
 }: {
   live: LiveStatus
   videos: ArchivedVideo[]
+  id?: string
 }) {
   const [playing, setPlaying] = useState(false)
 
-  if (live.isLive && live.videoId) {
-    return (
-      <section className="overflow-hidden rounded-2xl border border-red-200 bg-white shadow-sm">
-        <div className="flex flex-wrap items-center justify-between gap-3 bg-red-50 px-6 py-4">
-          <div className="flex items-center gap-3">
-            <span className="animate-live inline-flex items-center gap-1 rounded-full bg-red-600 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">
-              <span className="h-2 w-2 rounded-full bg-white" />
-              Live
-            </span>
-            <div>
-              <p className="text-sm font-semibold text-slate-800">{live.title ?? 'Live now'}</p>
-              {live.channelTitle ? (
-                <p className="text-xs text-slate-500">{live.channelTitle}</p>
-              ) : null}
+  return (
+    <Section id={id} tone="charcoal">
+      <SectionHeading
+        invert
+        eyebrow="Live Broadcast"
+        title={live.isLive ? 'We are live now' : 'Recent liturgies & sermons'}
+        action={
+          <a
+            href="https://www.youtube.com/@st.abraammedia/streams"
+            target="_blank"
+            rel="noreferrer"
+            className="text-sm text-gold-soft transition hover:text-white"
+          >
+            YouTube channel ↗
+          </a>
+        }
+      />
+
+      {live.isLive && live.videoId ? (
+        <div className="overflow-hidden rounded-xl border border-white/10 bg-black">
+          {playing ? (
+            <div className="aspect-video w-full">
+              <iframe
+                className="h-full w-full"
+                src={youtubeEmbedUrl(live.videoId)}
+                title="Live stream"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
             </div>
-          </div>
-          {!playing ? (
+          ) : (
             <button
               type="button"
               onClick={() => setPlaying(true)}
-              className="rounded-lg bg-red-600 px-4 py-2 text-sm font-medium text-white hover:bg-red-700"
+              className="group relative block aspect-video w-full"
             >
-              Watch live
+              {live.thumbnail ? (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={live.thumbnail}
+                  alt=""
+                  className="absolute inset-0 h-full w-full object-cover opacity-60 transition group-hover:opacity-80"
+                />
+              ) : (
+                <span className="absolute inset-0 bg-slate-900" />
+              )}
+              <span className="absolute left-4 top-4 inline-flex items-center gap-1.5 rounded-full bg-red-600 px-2.5 py-1 text-xs font-semibold uppercase tracking-wide text-white">
+                <span className="animate-live h-1.5 w-1.5 rounded-full bg-surface" />
+                Live
+              </span>
+              <span className="absolute inset-0 grid place-items-center">
+                <span className="rounded-full bg-white/95 px-5 py-2 text-sm font-semibold text-ink shadow-lg">
+                  Watch live
+                </span>
+              </span>
             </button>
+          )}
+          {live.title ? (
+            <p className="border-t border-white/10 px-4 py-3 text-sm text-slate-300">{live.title}</p>
           ) : null}
         </div>
-        {playing ? (
-          <div className="aspect-video w-full bg-black">
-            <iframe
-              className="h-full w-full"
-              src={youtubeEmbedUrl(live.videoId)}
-              title="Live stream"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            />
-          </div>
-        ) : (
-          <a
-            href={youtubeWatchUrl(live.videoId)}
-            className="block aspect-video w-full bg-slate-900 bg-cover bg-center"
-            style={live.thumbnail ? { backgroundImage: `url(${live.thumbnail})` } : undefined}
-            aria-label="Watch the live stream on YouTube"
-          />
-        )}
-      </section>
-    )
-  }
-
-  return (
-    <section className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-      <div className="flex items-center justify-between">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-gold">
-          Latest Liturgies &amp; Sermons
-        </h2>
-      </div>
-      {videos.length === 0 ? (
-        <p className="mt-3 text-sm text-slate-500">
-          No live stream is active right now. Recent recordings will appear here after the next
-          service.
-        </p>
-      ) : (
-        <ul className="mt-4 grid gap-4 sm:grid-cols-2">
+      ) : videos.length > 0 ? (
+        <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           {videos.map((video) => (
             <li key={video.videoId}>
               <a
                 href={youtubeWatchUrl(video.videoId)}
-                className="group block overflow-hidden rounded-xl border border-slate-200 transition hover:border-brand"
+                className="group block overflow-hidden rounded-lg border border-white/10 bg-white/5 transition hover:border-gold/60"
               >
                 {video.thumbnail ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img
                     src={video.thumbnail}
                     alt=""
-                    width={480}
-                    height={270}
-                    className="aspect-video w-full object-cover"
+                    className="aspect-video w-full object-cover opacity-90 transition group-hover:opacity-100"
                   />
                 ) : (
-                  <div className="aspect-video w-full bg-slate-100" />
+                  <div className="aspect-video w-full bg-slate-800" />
                 )}
                 <div className="p-3">
-                  <p className="line-clamp-2 text-sm font-medium text-slate-800 group-hover:text-brand">
+                  <p className="line-clamp-2 text-sm text-slate-200 transition group-hover:text-white">
                     {video.title}
                   </p>
                   {video.publishedAt ? (
-                    <p className="mt-1 text-xs text-slate-400">{formatDate(video.publishedAt, 'UTC')}</p>
+                    <p className="mt-1 text-xs text-subtle">
+                      {formatDate(video.publishedAt, 'UTC')}
+                    </p>
                   ) : null}
                 </div>
               </a>
             </li>
           ))}
         </ul>
+      ) : (
+        <p className="text-sm text-subtle">
+          No live stream is active right now. Recent recordings will appear here after the next
+          service.
+        </p>
       )}
-    </section>
+    </Section>
   )
 }
