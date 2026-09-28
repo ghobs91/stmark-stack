@@ -18,6 +18,7 @@ const eslintConfig = [
       'public/sw.js',
       'public/swe-worker-*.js',
       'src/payload-types.ts',
+      'src/migrations/**',
       'src/app/(payload)/admin/importMap.js',
     ],
   },
