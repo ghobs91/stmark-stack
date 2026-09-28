@@ -1,0 +1,1943 @@
+{
+  "extractedAt": "2026-09-27T20:51:54.183Z",
+  "source": "https://saintmarkcenter.org/",
+  "siteSettings": {
+    "churchName": "St. Mark Coptic Church Center",
+    "tagline": "Woodbury, NY",
+    "contactPhone": "(516) 367-1328",
+    "address": "90 Woodbury Rd, Woodbury, NY 11797",
+    "youtubeChannelIds": [
+      "@st.abraammedia",
+      "@st.marychurch-woodbury"
+    ],
+    "pushNotificationsEnabled": true,
+    "homeAnnouncement": "Starting 1/10/2026, due to construction, liturgies will be held at Pope Shenouda Hall. Saturday: Arabic Liturgy. Sunday: English Liturgy. Wednesday: Liturgy."
+  },
+  "kitchenSettings": {
+    "isOrderingActive": true,
+    "jotformId": "201970498209159",
+    "backupPhone": "(516) 458-4941",
+    "announcement": "If you have issues with online orders, please SMS your detailed order and full name to (516) 458-4941. Pickup can be arranged for Saturday/Sunday at 11 am."
+  },
+  "bulletins": [
+    {
+      "title": "Liturgies Schedules during Egyptian Festival",
+      "slug": "liturgies-schedules-during-egyptian-festival",
+      "category": "feast",
+      "publishDate": "2026-09-26T05:32:46.746Z",
+      "contentText": "During the following dates:",
+      "featuredImage": "https://img1.wsimg.com/isteam/ip/7b537575-f87d-4767-a45e-3d3c33b664d4/Important%20Announcment.jpeg",
+      "categories": [
+        "Activities"
+      ],
+      "sourceUrl": "https://saintmarkcenter.org/st-mark-coptic-center-li/f/liturgies-schedules-during-egyptian-festival"
+    },
+    {
+      "title": "Condolences for the departure of Dr. Fawzy Henry",
+      "slug": "condolences-for-the-departure-of-dr-fawzy-henry",
+      "category": "condolence",
+      "publishDate": "2026-09-26T05:24:36.667Z",
+      "contentText": "“And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying, nor pain.” (Revelation 21:4)",
+      "featuredImage": "https://img1.wsimg.com/isteam/ip/7b537575-f87d-4767-a45e-3d3c33b664d4/Dr.%20Fawzy%20Henry.png",
+      "categories": [
+        "Condolonces"
+      ],
+      "sourceUrl": "https://saintmarkcenter.org/st-mark-coptic-center-li/f/condolences-for-the-departure-of-dr-fawzy-henry"
+    },
+    {
+      "title": "Egyptian Festival 26",
+      "slug": "egyptian-festival-26",
+      "category": "feast",
+      "publishDate": "2026-08-29T04:04:17.848Z",
+      "contentText": "St. Mark Coptic Church Center",
+      "featuredImage": "https://img1.wsimg.com/isteam/ip/7b537575-f87d-4767-a45e-3d3c33b664d4/Festival%202026.jpg",
+      "categories": [
+        "Activities"
+      ],
+      "sourceUrl": "https://saintmarkcenter.org/st-mark-coptic-center-li/f/egyptian-festival-26"
+    },
+    {
+      "title": " Condolences for the departure of Mrs. Amal Faragalla",
+      "slug": "condolences-for-the-departure-of-mrs-amal-faragalla",
+      "category": "condolence",
+      "publishDate": "2026-08-29T03:59:58.716Z",
+      "contentText": "Condolences for the departure of Mrs Amal Faragalla, wife of the late George Faragalla.",
+      "featuredImage": "https://img1.wsimg.com/isteam/ip/7b537575-f87d-4767-a45e-3d3c33b664d4/Condolonces%20deapest.png",
+      "categories": [
+        "Condolonces"
+      ],
+      "sourceUrl": "https://saintmarkcenter.org/st-mark-coptic-center-li/f/condolences-for-the-departure-of-mrs-amal-faragalla"
+    },
+    {
+      "title": "Graduation Ceremony '26",
+      "slug": "graduation-ceremony-26",
+      "category": "announcement",
+      "publishDate": "2026-06-20T02:17:16.771Z",
+      "contentText": "https://youtu.be/nds9MFAxzlI",
+      "featuredImage": "https://img1.wsimg.com/isteam/ip/7b537575-f87d-4767-a45e-3d3c33b664d4/2026%20Graduation%20Ceremony.png",
+      "categories": [
+        "Activities"
+      ],
+      "sourceUrl": "https://saintmarkcenter.org/st-mark-coptic-center-li/f/graduation-ceremony-26"
+    },
+    {
+      "title": "Privacy Policy",
+      "slug": "privacy-policy",
+      "category": "announcement",
+      "publishDate": "2025-05-08T23:05:43.808Z",
+      "contentText": "Saint Mark Coptic Church Center  values you, and we want to protect the information you give us, which allows us to communicate with you. To that end, you do not share data (including mobile opt-in data) with third parti...",
+      "featuredImage": "https://img1.wsimg.com/isteam/ip/7b537575-f87d-4767-a45e-3d3c33b664d4/Privacy%20policy%20.jpg",
+      "categories": [
+        "Activities"
+      ],
+      "sourceUrl": "https://saintmarkcenter.org/st-mark-coptic-center-li/f/privacy-policy"
+    }
+  ],
+  "events": [
+    {
+      "title": "Feel@Home gathering",
+      "startTime": "2016-11-19T18:00:00.000Z",
+      "endTime": "2016-11-19T23:00:00.000Z",
+      "eventType": "special",
+      "location": "St. Abraam Coptic Orthodox Church (Pope Shenouda Hall)",
+      "description": "R.S.V.P. by Saturday 11/12/2016",
+      "recurring": false
+    },
+    {
+      "title": "Meeting at St. Mark Coptic church",
+      "startTime": "2017-03-15T15:30:00.000Z",
+      "endTime": "2017-03-15T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "90 Woodbury Road",
+      "description": "\n\n\nATTENTION CUSTOMERS: For your protection, please remember to mask sensitive data, such as account numbers and tax identification numbers on all e-mails (e.g. for SS# XXX-XX-8765, for TIN XX-XXX1234, for account XXXXXX6789).\n________________________________\n\nSince internet e-mail security and delivery is not guaranteed, e-mail to Bridgehampton National Bank should not contain personal information, or time-sensitive, action-oriented instructions or matters requiring your signature. Remember that e-mail messages are subject to monitoring and retention by Bridgehampton National Bank as well as examination by regulators. If you require assurance that your e-mail has been received, be sure to phone the intended recipient.\nThis e-mail and any files transmitted with it are confidential and are solely for the use of the individual(s) or entity to whom they are addressed. This communication represents the originator's personal views and opinions, which do not necessarily reflect those of the Bridgehampton National Bank. If you are not the intended recipient you are hereby notified that any dissemination, distribution or copying of this communication is strictly prohibited. If you have received this communication in error, please notify the sender of the error immediately, do not read or use the communication in any manner, destroy all copies, and delete it from your system.\n",
+      "recurring": false
+    },
+    {
+      "title": "Fencing club at church",
+      "startTime": "2018-06-03T18:00:00.000Z",
+      "endTime": "2018-06-03T19:00:00.000Z",
+      "eventType": "special",
+      "location": "90 WOODBURY Rd, WOODBURY, NY",
+      "description": "Meeting with Father George to discuss about opening a fencing club at church.\n\n90 WOODBURY Rd, WOODBURY, NY\n\n",
+      "recurring": false
+    },
+    {
+      "title": "First Liturgy",
+      "startTime": "2021-10-10T12:00:00.000Z",
+      "endTime": "2021-10-10T14:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "NO Liturgy!!",
+      "startTime": "2021-10-16T13:00:00.000Z",
+      "endTime": "2021-10-16T15:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "Liturgy",
+      "recurring": false
+    },
+    {
+      "title": "Nabil Labib Wake",
+      "startTime": "2021-10-26T23:00:00.000Z",
+      "endTime": "2021-10-27T01:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "Wake of our brother Dr. Nabil Labib",
+      "recurring": false
+    },
+    {
+      "title": "Funeral of Dr Nabil Labib",
+      "startTime": "2021-10-27T15:30:00.000Z",
+      "endTime": "2021-10-27T16:30:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "Funeral of Dr. Nabil Labib",
+      "recurring": false
+    },
+    {
+      "title": "Rousedi Graiss funeral service",
+      "startTime": "2021-10-29T15:30:00.000Z",
+      "endTime": "2021-10-29T16:30:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2021-10-29T23:30:00.000Z",
+      "endTime": "2021-10-30T00:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "High school meeting",
+      "startTime": "2021-10-30T00:30:00.000Z",
+      "endTime": "2021-10-30T01:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "College meeting",
+      "startTime": "2021-10-30T00:30:00.000Z",
+      "endTime": "2021-10-30T01:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Servants spiritualday",
+      "startTime": "2021-10-30T13:00:00.000Z",
+      "endTime": "2021-10-30T23:00:00.000Z",
+      "eventType": "youth",
+      "location": "Camp DeWolfe, 408 N Side Rd, Wading River, NY 11792, USA",
+      "description": "Spiritual day for all servants of st Abraam in all areas of service",
+      "recurring": false
+    },
+    {
+      "title": "Festival servants appreciation day",
+      "startTime": "2021-11-06T20:00:00.000Z",
+      "endTime": "2021-11-06T23:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "This event is hosted by the Abounas to acknowledge and appreciate all those who volunteered, labored and served in the Egyptian festival this year. Thank you",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy",
+      "startTime": "2021-12-02T22:00:00.000Z",
+      "endTime": "2021-12-03T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2021-12-08T16:00:00.000Z",
+      "endTime": "2021-12-08T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Bible Study",
+      "startTime": "2021-12-09T00:00:00.000Z",
+      "endTime": "2021-12-09T01:00:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Wagih Solomon Funeral",
+      "startTime": "2021-12-10T16:00:00.000Z",
+      "endTime": "2021-12-10T17:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Overnight Kiahk praises",
+      "startTime": "2021-12-11T04:00:00.000Z",
+      "endTime": "2021-12-11T10:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Nativity feast Matins",
+      "startTime": "2022-01-06T22:00:00.000Z",
+      "endTime": "2022-01-06T23:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Nativity feast 1st liturgy (Arabic/English)",
+      "startTime": "2022-01-06T23:00:00.000Z",
+      "endTime": "2022-01-07T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Nativity Feast 2nd Liturgy",
+      "startTime": "2022-01-07T01:00:00.000Z",
+      "endTime": "2022-01-07T03:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "High school meeting zoom only",
+      "startTime": "2022-01-08T01:30:00.000Z",
+      "endTime": "2022-01-08T02:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "College meeting Zoom only",
+      "startTime": "2022-01-08T01:30:00.000Z",
+      "endTime": "2022-01-08T02:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Liturgy of the Circumcising of the Lord",
+      "startTime": "2022-01-14T14:00:00.000Z",
+      "endTime": "2022-01-14T15:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Liturgy for Paramouni of a holy Theophany",
+      "startTime": "2022-01-18T13:00:00.000Z",
+      "endTime": "2022-01-18T14:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Matins & Liturgy of the Holy Theophany",
+      "startTime": "2022-01-19T00:00:00.000Z",
+      "endTime": "2022-01-19T02:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Liturgy of the Miracle of Cana of Galilee",
+      "startTime": "2022-01-21T14:00:00.000Z",
+      "endTime": "2022-01-21T15:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "College meeting",
+      "startTime": "2022-01-22T01:30:00.000Z",
+      "endTime": "2022-01-22T02:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "High school meeting",
+      "startTime": "2022-01-22T01:30:00.000Z",
+      "endTime": "2022-01-22T02:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2022-02-04T00:30:00.000Z",
+      "endTime": "2022-02-04T01:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Bible study",
+      "startTime": "2022-02-12T00:30:00.000Z",
+      "endTime": "2022-02-12T01:30:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "LiturgyJonah fast",
+      "startTime": "2022-02-14T22:00:00.000Z",
+      "endTime": "2022-02-15T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy Jonah’s fast",
+      "startTime": "2022-02-15T14:00:00.000Z",
+      "endTime": "2022-02-15T15:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy Jonah’s fast",
+      "startTime": "2022-02-16T22:00:00.000Z",
+      "endTime": "2022-02-17T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Spiritual day for Jonah’s fast",
+      "startTime": "2022-02-17T00:00:00.000Z",
+      "endTime": "2022-02-17T01:30:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Deacon meeting",
+      "startTime": "2022-02-19T16:00:00.000Z",
+      "endTime": "2022-02-19T18:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Matins, Liturgy",
+      "startTime": "2022-03-03T22:00:00.000Z",
+      "endTime": "2022-03-04T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2022-03-09T16:00:00.000Z",
+      "endTime": "2022-03-09T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Bible Study",
+      "startTime": "2022-03-10T00:00:00.000Z",
+      "endTime": "2022-03-10T01:00:00.000Z",
+      "eventType": "bible_study",
+      "location": "St. Abraam Coptic Orthodox Church, 90 Woodbury Rd, Woodbury, NY 11797, USA",
+      "description": "Come and join our weekly Bible Study in Arabic held at church run by our beloved Abouna Moussa",
+      "recurring": true
+    },
+    {
+      "title": "Grad Meeting",
+      "startTime": "2022-03-10T00:30:00.000Z",
+      "endTime": "2022-03-10T02:30:00.000Z",
+      "eventType": "youth",
+      "location": "George Mickail ",
+      "description": "Cozy and spiritual fellowship meeting for graduates held monthly at one of the grad’s house.",
+      "recurring": false
+    },
+    {
+      "title": "Lent program",
+      "startTime": "2022-03-12T22:00:00.000Z",
+      "endTime": "2022-03-13T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "Lent program is a Sunday school activity for middle school and younger",
+      "recurring": true
+    },
+    {
+      "title": "Vespers for Holy Cross",
+      "startTime": "2022-03-18T23:00:00.000Z",
+      "endTime": "2022-03-19T00:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "Vespers for the feast of Holy Cross",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2022-03-18T23:30:00.000Z",
+      "endTime": "2022-03-19T00:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Family Series with Abouna Guirguis",
+      "startTime": "2022-03-19T22:00:00.000Z",
+      "endTime": "2022-03-19T23:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "4 Week series “The way to a healthy identity” conducted by our Amazing Abouna Guirguis in the upstairs church during the Lent Program",
+      "recurring": true
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2022-04-01T23:00:00.000Z",
+      "endTime": "2022-04-02T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "High school meeting",
+      "startTime": "2022-04-02T00:00:00.000Z",
+      "endTime": "2022-04-02T01:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Youth Spiritual Day",
+      "startTime": "2022-04-02T13:00:00.000Z",
+      "endTime": "2022-04-02T21:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2022-04-06T15:00:00.000Z",
+      "endTime": "2022-04-06T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Grad meeting",
+      "startTime": "2022-04-07T23:00:00.000Z",
+      "endTime": "2022-04-08T00:00:00.000Z",
+      "eventType": "youth",
+      "location": "@ Steven Metri ",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "End of Lent (generalAndeel and liturgy)",
+      "startTime": "2022-04-15T14:00:00.000Z",
+      "endTime": "2022-04-15T17:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2022-04-15T23:30:00.000Z",
+      "endTime": "2022-04-16T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Welcoming Jesus entry on a Donkey",
+      "startTime": "2022-04-16T21:30:00.000Z",
+      "endTime": "2022-04-16T22:30:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Palm Sunday eve Vespers/Midnight praises",
+      "startTime": "2022-04-16T23:00:00.000Z",
+      "endTime": "2022-04-17T01:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Second Liturgy/General eater",
+      "startTime": "2022-04-17T14:00:00.000Z",
+      "endTime": "2022-04-17T16:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Pascha (combined Arabic& English)",
+      "startTime": "2022-04-17T22:00:00.000Z",
+      "endTime": "2022-04-18T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Morning Pascha",
+      "startTime": "2022-04-18T14:00:00.000Z",
+      "endTime": "2022-04-18T17:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "English Pascha",
+      "startTime": "2022-04-18T22:00:00.000Z",
+      "endTime": "2022-04-19T00:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Arabic Pascha",
+      "startTime": "2022-04-18T22:00:00.000Z",
+      "endTime": "2022-04-19T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Covenant Thursday",
+      "startTime": "2022-04-21T12:00:00.000Z",
+      "endTime": "2022-04-21T17:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Evening Pascha",
+      "startTime": "2022-04-21T21:00:00.000Z",
+      "endTime": "2022-04-22T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Good Friday Arabic",
+      "startTime": "2022-04-22T12:00:00.000Z",
+      "endTime": "2022-04-22T21:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Good Friday English",
+      "startTime": "2022-04-22T12:30:00.000Z",
+      "endTime": "2022-04-22T20:30:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Bright Saturday",
+      "startTime": "2022-04-23T03:30:00.000Z",
+      "endTime": "2022-04-23T09:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "College and High School BBQ",
+      "startTime": "2022-04-29T21:30:00.000Z",
+      "endTime": "2022-04-30T00:00:00.000Z",
+      "eventType": "youth",
+      "location": "Syosset-Woodbury Community Park, 7800 Jericho Turnpike, Woodbury, NY 11797, USA",
+      "description": "If you are a college or high school student, come and join St Abraham BBQ. Register using the following link https://forms.gle/yS7xCX7XPskWxXyT7",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2022-05-13T23:30:00.000Z",
+      "endTime": "2022-05-14T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2022-05-18T15:00:00.000Z",
+      "endTime": "2022-05-18T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for The Lord’s Entry to Egypt",
+      "startTime": "2022-05-31T22:45:00.000Z",
+      "endTime": "2022-05-31T23:45:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "Come and bring the family to Vespers for the feasts of the Lord’s Entry to Egypt",
+      "recurring": false
+    },
+    {
+      "title": "Funeral of Yvonne Fam",
+      "startTime": "2022-06-02T15:30:00.000Z",
+      "endTime": "2022-06-02T16:30:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2022-06-08T15:00:00.000Z",
+      "endTime": "2022-06-08T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for Anba Abraam",
+      "startTime": "2022-06-09T23:00:00.000Z",
+      "endTime": "2022-06-10T00:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for Anba Abraam",
+      "startTime": "2022-06-10T13:00:00.000Z",
+      "endTime": "2022-06-10T14:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer meeting",
+      "startTime": "2022-06-10T23:30:00.000Z",
+      "endTime": "2022-06-11T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Liturgy",
+      "startTime": "2022-06-19T13:00:00.000Z",
+      "endTime": "2022-06-19T15:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Open doors",
+      "startTime": "2022-07-09T15:00:00.000Z",
+      "endTime": "2022-07-09T16:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for the feast of the Apostles",
+      "startTime": "2022-07-12T12:30:00.000Z",
+      "endTime": "2022-07-12T15:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "St Mary Nahda",
+      "startTime": "2022-08-13T00:00:00.000Z",
+      "endTime": "2022-08-13T01:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "St Mary Nahda",
+      "startTime": "2022-08-13T23:00:00.000Z",
+      "endTime": "2022-08-14T01:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for the feast of transfiguration",
+      "startTime": "2022-08-19T13:00:00.000Z",
+      "endTime": "2022-08-19T14:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Nahda/ St Mary revival",
+      "startTime": "2022-08-20T00:00:00.000Z",
+      "endTime": "2022-08-20T01:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Nahda/ vespers for St Mary’s feast",
+      "startTime": "2022-08-21T23:30:00.000Z",
+      "endTime": "2022-08-22T00:30:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2022-09-14T15:00:00.000Z",
+      "endTime": "2022-09-14T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "EgyptianFestival",
+      "startTime": "2022-09-16T22:00:00.000Z",
+      "endTime": "2022-09-18T23:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Church Festival",
+      "startTime": "2022-09-23T22:00:00.000Z",
+      "endTime": "2022-09-26T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for the feast of the cross",
+      "startTime": "2022-09-27T12:30:00.000Z",
+      "endTime": "2022-09-27T15:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2022-11-09T16:00:00.000Z",
+      "endTime": "2022-11-09T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Men’s fellowship",
+      "startTime": "2022-11-17T01:15:00.000Z",
+      "endTime": "2022-11-17T02:15:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "College and Grad Bible study",
+      "startTime": "2023-02-09T00:00:00.000Z",
+      "endTime": "2023-02-09T01:00:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Ladies meeting",
+      "startTime": "2023-02-11T00:00:00.000Z",
+      "endTime": "2023-02-11T01:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2023-02-11T00:30:00.000Z",
+      "endTime": "2023-02-11T03:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Super Bowl game at church hall",
+      "startTime": "2023-02-12T23:00:00.000Z",
+      "endTime": "2023-02-13T02:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "Come watch the Super Bowl with other at the church hall. The event is organized by the high school and college group. $20. More information and to register contact Andrew Habashy at 631-438-2405",
+      "recurring": false
+    },
+    {
+      "title": "Men’s fellowship",
+      "startTime": "2023-02-16T01:15:00.000Z",
+      "endTime": "2023-02-16T02:15:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Grad meeting",
+      "startTime": "2023-02-17T00:30:00.000Z",
+      "endTime": "2023-02-17T01:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "Come join our grad meeting.this week Aida will talk about purpose of life. Come hungry :)",
+      "recurring": false
+    },
+    {
+      "title": "Matins / Liturgy",
+      "startTime": "2023-02-28T21:30:00.000Z",
+      "endTime": "2023-03-01T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Lent Program",
+      "startTime": "2023-03-11T22:00:00.000Z",
+      "endTime": "2023-03-12T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Parenting meeting",
+      "startTime": "2023-03-11T23:00:00.000Z",
+      "endTime": "2023-03-12T00:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Family meeting",
+      "startTime": "2023-07-09T03:00:00.000Z",
+      "endTime": "2023-07-09T05:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for Nayrouz",
+      "startTime": "2023-09-11T23:00:00.000Z",
+      "endTime": "2023-09-12T00:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for Nayrouz",
+      "startTime": "2023-09-12T13:00:00.000Z",
+      "endTime": "2023-09-12T14:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the feast of the Cross",
+      "startTime": "2023-09-27T23:00:00.000Z",
+      "endTime": "2023-09-28T00:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2023-10-21T00:00:00.000Z",
+      "endTime": "2023-10-21T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Middle school parent meeting",
+      "startTime": "2023-11-05T18:00:00.000Z",
+      "endTime": "2023-11-05T19:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2023-11-08T16:00:00.000Z",
+      "endTime": "2023-11-08T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Thanksgiving Liturgy",
+      "startTime": "2023-11-23T14:00:00.000Z",
+      "endTime": "2023-11-23T15:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "***NO Arabic Bible Study",
+      "startTime": "2023-11-29T00:30:00.000Z",
+      "endTime": "2023-11-29T01:30:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Monthly Family Meeting",
+      "startTime": "2023-12-09T14:00:00.000Z",
+      "endTime": "2023-12-09T18:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior Meeting",
+      "startTime": "2023-12-13T16:00:00.000Z",
+      "endTime": "2023-12-13T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Living Wills Vs Trust legal lecture",
+      "startTime": "2023-12-16T16:00:00.000Z",
+      "endTime": "2023-12-16T17:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2023-12-23T01:00:00.000Z",
+      "endTime": "2023-12-23T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "New Year’s Eve program",
+      "startTime": "2024-01-01T02:00:00.000Z",
+      "endTime": "2024-01-01T03:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Prayer Meeting (Arabic upstairs /English downstairs)",
+      "startTime": "2024-01-01T03:45:00.000Z",
+      "endTime": "2024-01-01T04:45:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "New year’s liturgy",
+      "startTime": "2024-01-01T05:00:00.000Z",
+      "endTime": "2024-01-01T06:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for Nativity",
+      "startTime": "2024-01-07T01:00:00.000Z",
+      "endTime": "2024-01-07T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Paramoun Liturgy",
+      "startTime": "2024-01-19T13:00:00.000Z",
+      "endTime": "2024-01-19T14:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Feast of Epiphany Liturgy",
+      "startTime": "2024-01-19T23:00:00.000Z",
+      "endTime": "2024-01-20T03:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for Feast of Wedding of Cana of Galilee",
+      "startTime": "2024-01-22T14:00:00.000Z",
+      "endTime": "2024-01-22T15:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2024-01-27T01:00:00.000Z",
+      "endTime": "2024-01-27T03:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Gym",
+      "startTime": "2024-01-28T20:30:00.000Z",
+      "endTime": "2024-01-29T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "**NO Arabic Bible Study",
+      "startTime": "2024-02-07T00:00:00.000Z",
+      "endTime": "2024-02-07T01:00:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Family conference w Dr. Magdy Ishak",
+      "startTime": "2024-02-16T00:15:00.000Z",
+      "endTime": "2024-02-16T01:45:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for the Christ’s presentation in the Temple",
+      "startTime": "2024-02-16T14:00:00.000Z",
+      "endTime": "2024-02-16T16:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2024-02-17T01:00:00.000Z",
+      "endTime": "2024-02-17T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2024-03-16T00:00:00.000Z",
+      "endTime": "2024-03-16T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Asheya for the Feast of the Holy Cross",
+      "startTime": "2024-03-18T23:00:00.000Z",
+      "endTime": "2024-03-19T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Feast of the Holy Cross",
+      "startTime": "2024-03-19T12:00:00.000Z",
+      "endTime": "2024-03-19T14:30:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Monthly Senior Meeting",
+      "startTime": "2024-03-19T15:00:00.000Z",
+      "endTime": "2024-03-19T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy",
+      "startTime": "2024-03-21T21:00:00.000Z",
+      "endTime": "2024-03-21T23:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2024-04-20T00:00:00.000Z",
+      "endTime": "2024-04-20T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2024-05-25T00:00:00.000Z",
+      "endTime": "2024-05-25T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Feast of Ascension",
+      "startTime": "2024-06-06T13:00:00.000Z",
+      "endTime": "2024-06-06T14:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the feast of  Ascension",
+      "startTime": "2024-06-12T23:00:00.000Z",
+      "endTime": "2024-06-12T23:30:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2024-06-15T00:00:00.000Z",
+      "endTime": "2024-06-15T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for Transfiguration",
+      "startTime": "2024-08-19T13:00:00.000Z",
+      "endTime": "2024-08-19T14:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "St Mary’s Nahda Revial",
+      "startTime": "2024-08-19T23:00:00.000Z",
+      "endTime": "2024-08-20T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Liturgy for the feast of St Mary",
+      "startTime": "2024-08-22T13:00:00.000Z",
+      "endTime": "2024-08-22T14:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Monthly Senior Meeting",
+      "startTime": "2024-08-22T15:00:00.000Z",
+      "endTime": "2024-08-22T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the feast of Nayrouz",
+      "startTime": "2024-09-10T23:30:00.000Z",
+      "endTime": "2024-09-11T00:30:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Monthly Senior Meeting",
+      "startTime": "2024-09-11T15:00:00.000Z",
+      "endTime": "2024-09-11T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the Feast of the Cross",
+      "startTime": "2024-09-26T23:30:00.000Z",
+      "endTime": "2024-09-27T00:30:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Feast of the Cross",
+      "startTime": "2024-09-27T12:00:00.000Z",
+      "endTime": "2024-09-27T15:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2024-10-09T15:00:00.000Z",
+      "endTime": "2024-10-09T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "All Saints Day Sunday School Event",
+      "startTime": "2024-10-31T21:00:00.000Z",
+      "endTime": "2024-11-01T00:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2024-11-01T00:00:00.000Z",
+      "endTime": "2024-11-01T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Men’s fellowship",
+      "startTime": "2024-11-08T00:00:00.000Z",
+      "endTime": "2024-11-08T01:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "College and Grad Bible study",
+      "startTime": "2024-11-08T01:15:00.000Z",
+      "endTime": "2024-11-08T02:15:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2024-11-13T16:00:00.000Z",
+      "endTime": "2024-11-13T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Monthly Senior Meeting",
+      "startTime": "2024-12-11T16:00:00.000Z",
+      "endTime": "2024-12-11T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Paramoun Liturgy",
+      "startTime": "2025-01-06T12:30:00.000Z",
+      "endTime": "2025-01-06T14:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for the feast of Nativity",
+      "startTime": "2025-01-06T23:00:00.000Z",
+      "endTime": "2025-01-07T03:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Sunday School Nativity celebration",
+      "startTime": "2025-01-07T17:00:00.000Z",
+      "endTime": "2025-01-07T19:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2025-01-14T16:00:00.000Z",
+      "endTime": "2025-01-14T17:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "College and Grad Bible study",
+      "startTime": "2025-01-30T01:15:00.000Z",
+      "endTime": "2025-01-30T02:15:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2025-05-03T00:00:00.000Z",
+      "endTime": "2025-05-03T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the feast of Ascension",
+      "startTime": "2025-05-28T23:30:00.000Z",
+      "endTime": "2025-05-29T00:30:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for Feast of Ascension",
+      "startTime": "2025-05-29T13:00:00.000Z",
+      "endTime": "2025-05-29T15:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2025-06-18T15:30:00.000Z",
+      "endTime": "2025-06-18T16:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "St Abraam Graduation ceremony",
+      "startTime": "2025-06-22T15:30:00.000Z",
+      "endTime": "2025-06-22T16:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for the feast of St Mary",
+      "startTime": "2025-08-22T13:00:00.000Z",
+      "endTime": "2025-08-22T15:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2025-08-30T00:00:00.000Z",
+      "endTime": "2025-08-30T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the feast of Nayrouz",
+      "startTime": "2025-09-10T23:00:00.000Z",
+      "endTime": "2025-09-11T00:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Liturgy for Feast of Nayrouz",
+      "startTime": "2025-09-11T13:00:00.000Z",
+      "endTime": "2025-09-11T15:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Egyptian Festival",
+      "startTime": "2025-09-19T22:00:00.000Z",
+      "endTime": "2025-09-20T03:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Egyptian Festival",
+      "startTime": "2025-09-20T15:00:00.000Z",
+      "endTime": "2025-09-21T03:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Egyptian Festival",
+      "startTime": "2025-09-21T15:00:00.000Z",
+      "endTime": "2025-09-22T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Egyptian Festival",
+      "startTime": "2025-09-26T22:00:00.000Z",
+      "endTime": "2025-09-29T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic prayer meeting",
+      "startTime": "2025-10-18T00:00:00.000Z",
+      "endTime": "2025-10-18T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "**English Bible Study for Adults and Families**",
+      "startTime": "2025-11-06T00:00:00.000Z",
+      "endTime": "2025-11-06T01:00:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Monthly Senior meeting",
+      "startTime": "2025-12-17T16:30:00.000Z",
+      "endTime": "2025-12-17T17:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2025-12-20T01:00:00.000Z",
+      "endTime": "2025-12-20T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2026-01-03T01:00:00.000Z",
+      "endTime": "2026-01-03T02:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Nativity Paramoun Liturgy",
+      "startTime": "2026-01-06T13:00:00.000Z",
+      "endTime": "2026-01-06T14:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Matins for feast of Nativity",
+      "startTime": "2026-01-06T23:00:00.000Z",
+      "endTime": "2026-01-07T00:30:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for the feast of Nativity",
+      "startTime": "2026-01-07T00:30:00.000Z",
+      "endTime": "2026-01-07T03:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Ladies meeting",
+      "startTime": "2026-01-17T00:00:00.000Z",
+      "endTime": "2026-01-17T01:20:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "High school meeting",
+      "startTime": "2026-01-17T01:30:00.000Z",
+      "endTime": "2026-01-17T02:30:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "**NO**Arabic Bible study tonight",
+      "startTime": "2026-01-21T00:00:00.000Z",
+      "endTime": "2026-01-21T01:00:00.000Z",
+      "eventType": "bible_study",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Jonah’s liturgy",
+      "startTime": "2026-02-02T22:00:00.000Z",
+      "endTime": "2026-02-03T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Jonah’s liturgy",
+      "startTime": "2026-02-03T22:00:00.000Z",
+      "endTime": "2026-02-04T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer Meeting",
+      "startTime": "2026-03-04T01:00:00.000Z",
+      "endTime": "2026-03-04T03:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the feast of The Cross",
+      "startTime": "2026-03-19T00:00:00.000Z",
+      "endTime": "2026-03-19T01:30:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Feast of the Holy Cross",
+      "startTime": "2026-03-19T12:00:00.000Z",
+      "endTime": "2026-03-19T15:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "End of Lent Liturgy",
+      "startTime": "2026-04-03T14:00:00.000Z",
+      "endTime": "2026-04-03T17:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Matins for Palm Sunday",
+      "startTime": "2026-04-05T12:00:00.000Z",
+      "endTime": "2026-04-05T13:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Palm Sunday English liturgy",
+      "startTime": "2026-04-05T13:00:00.000Z",
+      "endTime": "2026-04-05T16:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Evening Pascha",
+      "startTime": "2026-04-05T21:00:00.000Z",
+      "endTime": "2026-04-06T00:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Morning Pascha",
+      "startTime": "2026-04-06T14:00:00.000Z",
+      "endTime": "2026-04-06T17:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Evening Pascha",
+      "startTime": "2026-04-06T22:00:00.000Z",
+      "endTime": "2026-04-07T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Evening English Pascha",
+      "startTime": "2026-04-06T22:30:00.000Z",
+      "endTime": "2026-04-07T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Morning Pascha",
+      "startTime": "2026-04-07T14:00:00.000Z",
+      "endTime": "2026-04-07T17:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Evening Pascha",
+      "startTime": "2026-04-07T22:00:00.000Z",
+      "endTime": "2026-04-08T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Evening English Pascha",
+      "startTime": "2026-04-07T22:30:00.000Z",
+      "endTime": "2026-04-08T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Morning Pascha",
+      "startTime": "2026-04-08T14:00:00.000Z",
+      "endTime": "2026-04-08T17:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Evening Pascha",
+      "startTime": "2026-04-08T22:00:00.000Z",
+      "endTime": "2026-04-09T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Evening English Pascha",
+      "startTime": "2026-04-08T22:30:00.000Z",
+      "endTime": "2026-04-09T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Covenant Thursday service",
+      "startTime": "2026-04-09T12:00:00.000Z",
+      "endTime": "2026-04-09T17:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Evening Arabic Pascha",
+      "startTime": "2026-04-09T21:30:00.000Z",
+      "endTime": "2026-04-10T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "English Evening Pascha",
+      "startTime": "2026-04-09T22:00:00.000Z",
+      "endTime": "2026-04-10T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Good Friday Arabic service",
+      "startTime": "2026-04-10T12:00:00.000Z",
+      "endTime": "2026-04-10T21:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Good Friday English Service",
+      "startTime": "2026-04-10T12:30:00.000Z",
+      "endTime": "2026-04-10T21:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Liturgy for Feast of Resurrection",
+      "startTime": "2026-04-12T00:00:00.000Z",
+      "endTime": "2026-04-12T03:55:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior meeting",
+      "startTime": "2026-04-22T15:00:00.000Z",
+      "endTime": "2026-04-22T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Arabic Prayer meeting",
+      "startTime": "2026-05-30T00:00:00.000Z",
+      "endTime": "2026-05-30T01:00:00.000Z",
+      "eventType": "liturgy",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Senior Meeting",
+      "startTime": "2026-06-10T15:00:00.000Z",
+      "endTime": "2026-06-10T16:00:00.000Z",
+      "eventType": "youth",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "St Mary Revival",
+      "startTime": "2026-08-19T23:30:00.000Z",
+      "endTime": "2026-08-20T01:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": true
+    },
+    {
+      "title": "Men’s / women combined fellowship",
+      "startTime": "2026-08-27T23:00:00.000Z",
+      "endTime": "2026-08-28T00:00:00.000Z",
+      "eventType": "special",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    },
+    {
+      "title": "Vespers for the feast of Nayrouz",
+      "startTime": "2026-09-10T23:00:00.000Z",
+      "endTime": "2026-09-11T00:00:00.000Z",
+      "eventType": "vespers",
+      "location": "Main Church Sanctuary",
+      "description": "",
+      "recurring": false
+    }
+  ]
+}
